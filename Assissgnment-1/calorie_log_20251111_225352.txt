@@ -1,0 +1,12 @@
+Daily Calorie Tracker Session
+Date and Time: 2025-11-11 22:53:52
+Daily Calorie Limit: 400
+
+Meal Name	Calories
+peanut butter	200
+bread	40
+milk	100
+
+Total: 340
+Average: 113.33
+Status: Within the calorie limit!

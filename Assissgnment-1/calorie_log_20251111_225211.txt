@@ -1,0 +1,11 @@
+Daily Calorie Tracker Session
+Date and Time: 2025-11-11 22:52:11
+Daily Calorie Limit: 100
+
+Meal Name	Calories
+rice	70
+eggs	40
+
+Total: 110
+Average: 55.00
+Status: Exceeded the calorie limit!
