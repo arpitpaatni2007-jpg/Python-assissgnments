@@ -2,9 +2,7 @@
 
 A simple Python project that reads student marks from a CSV file, assigns grades, and displays basic statistics.
 
-# 📊 Python Grade Analyzer
-
-A simple Python project that reads student marks from a CSV file, assigns grades, and displays basic statistics.
+# Input (CSV)
 Name,Marks,Grade
 Arpit,100.0,A
 Vikas,90.0,A
