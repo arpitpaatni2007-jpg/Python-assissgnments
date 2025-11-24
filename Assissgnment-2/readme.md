@@ -5,10 +5,15 @@ A simple Python project that reads student marks from a CSV file, assigns grades
 # Input (CSV)
 Name,Marks,Grade
 Arpit,100.0,A
+
 Vikas,90.0,A
+
 Riya,70.0,C
+
 Mehul,90.0,A
+
 Chakshu,90.0,A
+
 # ✅ Features
 
 Reads CSV data
