@@ -45,4 +45,121 @@ This project was developed as part of a university lab/assignment.
 
 ## 📁 Project Structure
 
+library-inventory-manager/
+│
+├── book.py # Book class (title, author, isbn, status)
+├── inventory.py # Inventory manager + JSON handling
+├── main.py # CLI menu interface
+│
+├── catalog.json # Auto-created JSON database
+├── library.log # Log file (optional)
+│
+├── README.md # Project documentation
+├── requirements.txt # Dependencies
+
+
+---
+
+## 🛠️ How to Run the Project
+
+### 1. Install Python 3  
+Make sure Python is installed.
+
+### 2. Clone the repository 
+
+git clone https://github.com/arpitpaatni2007-jpg/Assissgnment-3.git
+
+### 3. Open the folder  
+cd library-inventory-manager
+
+graphql
+Copy code
+
+### 4. Run the CLI  
+python main.py
+
+yaml
+Copy code
+
+You will see:
+
+========== Library Inventory Manager ==========
+
+Add Book
+
+Issue Book
+
+Return Book
+
+View All Books
+
+Search Book
+
+Exit
+===============================================
+Enter your choice:
+
+yaml
+Copy code
+
+---
+
+## 📝 Example Usage
+
+**Add a Book →**  
+Enter:
+1
+Harry Potter
+J.K. Rowling
+1111
+
+css
+Copy code
+
+**Issue a Book →**  
+2
+1111
+
+css
+Copy code
+
+**Return a Book →**  
+3
+1111
+
+sql
+Copy code
+
+**View All Books →**  
+4
+
+yaml
+Copy code
+
+---
+
+## 📦 JSON Database (catalog.json)
+
+Example content:
+```json
+[
+  {
+    "title": "Harry Potter",
+    "author": "J.K. Rowling",
+    "isbn": "1111",
+    "status": "available"
+  }
+]
+# 🧪 Requirements
+json
+pathlib
+logging
+
+# 👨‍💻 Author
+
+Arpit
+Library Inventory Mini Project – Python Assignment
+
+
+
 
