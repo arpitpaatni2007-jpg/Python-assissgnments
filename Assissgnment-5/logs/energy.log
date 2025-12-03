@@ -1,0 +1,13 @@
+2025-12-03 13:01:00,941 - INFO - Loaded BuildingB_2024.csv (9 rows).
+2025-12-03 13:01:00,944 - INFO - Loaded BuildingC_2024.csv (9 rows).
+2025-12-03 13:01:00,946 - INFO - Loaded BuildingA_2024.csv (9 rows).
+2025-12-03 13:22:52,691 - INFO - Loaded BuildingB_2024.csv (9 rows).
+2025-12-03 13:22:52,694 - INFO - Loaded BuildingC_2024.csv (9 rows).
+2025-12-03 13:22:52,696 - INFO - Loaded BuildingA_2024.csv (9 rows).
+2025-12-03 13:37:58,817 - INFO - Loaded BuildingB_2024.csv (9 rows).
+2025-12-03 13:37:58,818 - INFO - Loaded BuildingC_2024.csv (9 rows).
+2025-12-03 13:37:58,819 - INFO - Loaded BuildingA_2024.csv (9 rows).
+2025-12-03 13:44:09,755 - ERROR - No such comm target registered: jupyter.widget.control
+2025-12-03 13:44:09,756 - WARNING - No such comm: aaf60a63-197d-41a3-ae65-9adda0d60956
+2025-12-03 14:38:08,570 - ERROR - No such comm target registered: jupyter.widget.control
+2025-12-03 14:38:08,571 - WARNING - No such comm: 536e3143-3338-4ba7-8740-0c887877634d
