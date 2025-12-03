@@ -1,0 +1,7 @@
+building,timestamp,kwh
+BuildingA_2024,2024-01-01,55
+BuildingA_2024,2024-01-02,51
+BuildingB_2024,2024-01-01,100
+BuildingB_2024,2024-01-02,89
+BuildingC_2024,2024-01-01,42
+BuildingC_2024,2024-01-02,42
